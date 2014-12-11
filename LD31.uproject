@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D1E360D1-4FE3-6114-2F6C-0D95A9D34036}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LD31",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"HTML5",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
